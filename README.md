@@ -1,4 +1,4 @@
-I do really stupid stuff with code. Specifically, with C#, Luau and Python. My GitHub is where I dump all my code-based projects on.
+I do really stupid stuff with code. Specifically, with C#, Lua and Python. My GitHub is where I dump all my code-based projects on.
 
 Laugh at me for writing horrible code all you like. I laugh at myself too sometimes.
 
